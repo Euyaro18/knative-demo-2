@@ -1,7 +1,7 @@
 apiVersion: serving.knative.dev/v1
 kind: Service
 metadata:
-  name: github-message-dumper
+  name: github-display
 spec:
   template:
     spec:

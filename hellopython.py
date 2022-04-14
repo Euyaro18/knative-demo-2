@@ -1,1 +1,1 @@
-print('Hello, world!.This is a Serverless Test')
+print('Hello, world!.This is a simple Test')
